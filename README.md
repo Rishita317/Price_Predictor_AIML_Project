@@ -8,11 +8,7 @@ A Python tool that fetches U.S. housing, gas, and food market data, trains a Ran
 - [Demo](#demo)  
 - [Forecast Methodology](#forecast-methodology)  
 - [Installation](#installation)  
-- [Usage](#usage)  
-- [Data Sources](#data-sources)  
-- [Dependencies](#dependencies)  
-- [Contributing](#contributing)  
-- [License](#license)  
+
 
 ## Features
 
