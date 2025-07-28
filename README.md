@@ -19,11 +19,7 @@ A Python tool that fetches U.S. housing, gas, and food market data, trains a Ran
 - **Interactive Charts**: Beautiful dark‐mode Plotly graphs with range selectors and hover templates.  
 - **Insights**: Prints current vs. 2‑year predicted prices with trend classification.  
 
-## Demo
-
-![Housing Forecast](demo/housing.png)  
-![Gas Forecast](demo/gas.png)  
-![Food Forecast](demo/food.png)  
+## Demo or live website : https://future-finance-graphs.lovable.app/   
 
 *(Put your own screenshots in a `/demo` folder.)*
 
